@@ -1,0 +1,89 @@
+Trial number: 4
+Name: sana
+Age: 22
+
+Starting Time:
+ Year: 2022 - Month:   12 - Day:   31 - Hour:   14 - Minute:   53 - Second: 17.886
+
+
+Right detected at time:  0.991
+Left  detected at time: 17.492
+Right detected at time: 32.442
+Left  detected at time: 42.658
+Right detected at time: 52.725
+Left  detected at time: 57.825
+Right detected at time: 66.975
+Left  detected at time: 78.609
+Right detected at time: 80.626
+Left  detected at time: 84.342
+Right detected at time: 91.859
+Left  detected at time: 94.909
+Right detected at time: 97.826
+Left  detected at time: 104.176
+Right detected at time: 108.376
+Left  detected at time: 114.259
+Right detected at time: 117.076
+Left  detected at time: 120.826
+Right detected at time: 122.776
+Left  detected at time: 125.743
+Right detected at time: 129.543
+Left  detected at time: 131.393
+Right detected at time: 134.093
+Left  detected at time: 140.410
+Right detected at time: 143.193
+Left  detected at time: 145.427
+Right detected at time: 148.427
+Left  detected at time: 153.160
+Right detected at time: 157.060
+Left  detected at time: 159.010
+Right detected at time: 160.977
+Left  detected at time: 164.227
+Right detected at time: 166.077
+Left  detected at time: 168.277
+Right detected at time: 170.844
+Left  detected at time: 173.477
+Right detected at time: 176.010
+Left  detected at time: 180.027
+Right detected at time: 182.310
+Left  detected at time: 184.594
+Right detected at time: 187.894
+Left  detected at time: 191.944
+Right detected at time: 194.761
+Left  detected at time: 197.461
+Right detected at time: 199.311
+Left  detected at time: 203.027
+Right detected at time: 208.061
+Left  detected at time: 211.894
+Right detected at time: 213.794
+Left  detected at time: 217.811
+Right detected at time: 220.211
+Left  detected at time: 226.728
+Right detected at time: 230.578
+Left  detected at time: 233.045
+Right detected at time: 236.661
+Left  detected at time: 238.361
+Right detected at time: 244.728
+Left  detected at time: 248.395
+Right detected at time: 251.295
+Left  detected at time: 254.695
+Right detected at time: 256.545
+Left  detected at time: 260.878
+Right detected at time: 263.962
+Left  detected at time: 272.612
+Right detected at time: 275.529
+Left  detected at time: 276.845
+Right detected at time: 278.545
+Left  detected at time: 287.612
+Right detected at time: 290.512
+Left  detected at time: 298.229
+Right detected at time: 300.312
+Left  detected at time: 302.396
+Right detected at time: 307.229
+Left  detected at time: 310.829
+Right detected at time: 313.846
+Left  detected at time: 319.796
+Right detected at time: 321.679
+Left  detected at time: 323.729
+Right detected at time: 325.563
+
+End

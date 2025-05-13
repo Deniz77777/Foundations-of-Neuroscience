@@ -1,0 +1,83 @@
+Trial number: 2
+Name: kamyar
+Age: 22
+
+Starting Time:
+ Year: 2022 - Month:   12 - Day:   31 - Hour:   14 - Minute:   19 - Second: 41.368
+
+
+Right detected at time:  0.846
+Left  detected at time:  2.446
+Right detected at time:  3.529
+Left  detected at time:  4.596
+Right detected at time:  5.829
+Left  detected at time:  8.896
+Right detected at time: 10.896
+Left  detected at time: 13.512
+Right detected at time: 14.812
+Left  detected at time: 16.412
+Right detected at time: 16.912
+Left  detected at time: 18.479
+Right detected at time: 18.979
+Left  detected at time: 20.946
+Right detected at time: 23.946
+Left  detected at time: 26.513
+Right detected at time: 31.663
+Left  detected at time: 36.613
+Right detected at time: 39.979
+Left  detected at time: 42.146
+Right detected at time: 44.563
+Left  detected at time: 48.146
+Right detected at time: 51.130
+Left  detected at time: 52.463
+Right detected at time: 54.330
+Left  detected at time: 56.863
+Right detected at time: 57.430
+Left  detected at time: 62.080
+Right detected at time: 63.346
+Left  detected at time: 69.463
+Right detected at time: 78.513
+Left  detected at time: 81.380
+Right detected at time: 82.430
+Left  detected at time: 86.863
+Right detected at time: 87.913
+Left  detected at time: 89.297
+Right detected at time: 95.014
+Left  detected at time: 103.847
+Right detected at time: 104.464
+Left  detected at time: 110.980
+Right detected at time: 115.597
+Left  detected at time: 120.247
+Right detected at time: 132.497
+Left  detected at time: 141.614
+Right detected at time: 154.614
+Left  detected at time: 157.148
+Right detected at time: 159.281
+Left  detected at time: 169.881
+Right detected at time: 181.531
+Left  detected at time: 182.465
+Right detected at time: 183.265
+Left  detected at time: 186.014
+Right detected at time: 187.582
+Left  detected at time: 199.082
+Right detected at time: 209.349
+Left  detected at time: 210.449
+Right detected at time: 213.349
+Left  detected at time: 216.982
+Right detected at time: 222.065
+Left  detected at time: 232.466
+Right detected at time: 242.582
+Left  detected at time: 246.782
+Right detected at time: 247.982
+Left  detected at time: 251.783
+Right detected at time: 253.483
+Left  detected at time: 261.899
+Right detected at time: 264.216
+Left  detected at time: 266.899
+Right detected at time: 268.450
+Left  detected at time: 273.683
+Right detected at time: 281.333
+Left  detected at time: 287.616
+Right detected at time: 289.466
+
+End

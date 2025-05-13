@@ -1,0 +1,105 @@
+Trial number: 1
+Name: kamyar
+Age: 22
+
+Starting Time:
+ Year: 2022 - Month:   12 - Day:   31 - Hour:   14 - Minute:    8 - Second: 59.676
+
+
+Right detected at time:  0.912
+Left  detected at time:  3.829
+Right detected at time:  5.295
+Left  detected at time:  6.512
+Right detected at time:  7.445
+Left  detected at time:  9.312
+Right detected at time: 10.112
+Left  detected at time: 11.129
+Right detected at time: 12.479
+Left  detected at time: 13.562
+Right detected at time: 15.729
+Left  detected at time: 16.795
+Right detected at time: 17.929
+Left  detected at time: 18.796
+Right detected at time: 21.679
+Left  detected at time: 24.746
+Right detected at time: 27.196
+Left  detected at time: 28.796
+Right detected at time: 29.979
+Left  detected at time: 31.146
+Right detected at time: 32.029
+Left  detected at time: 35.412
+Right detected at time: 38.012
+Left  detected at time: 39.846
+Right detected at time: 41.029
+Left  detected at time: 42.346
+Right detected at time: 44.779
+Left  detected at time: 46.263
+Right detected at time: 47.279
+Left  detected at time: 48.729
+Right detected at time: 50.546
+Left  detected at time: 53.879
+Right detected at time: 56.779
+Left  detected at time: 58.829
+Right detected at time: 60.996
+Left  detected at time: 63.930
+Right detected at time: 67.380
+Left  detected at time: 70.513
+Right detected at time: 71.580
+Left  detected at time: 73.130
+Right detected at time: 74.946
+Left  detected at time: 76.346
+Right detected at time: 78.696
+Left  detected at time: 81.630
+Right detected at time: 82.963
+Left  detected at time: 83.796
+Right detected at time: 84.879
+Left  detected at time: 86.062
+Right detected at time: 87.412
+Left  detected at time: 89.129
+Right detected at time: 90.346
+Left  detected at time: 91.863
+Right detected at time: 93.780
+Left  detected at time: 96.113
+Right detected at time: 98.913
+Left  detected at time: 100.597
+Right detected at time: 102.547
+Left  detected at time: 106.864
+Right detected at time: 108.997
+Left  detected at time: 110.230
+Right detected at time: 111.664
+Left  detected at time: 113.630
+Right detected at time: 114.764
+Left  detected at time: 116.047
+Right detected at time: 120.997
+Left  detected at time: 124.114
+Right detected at time: 126.197
+Left  detected at time: 128.830
+Right detected at time: 137.014
+Left  detected at time: 138.814
+Right detected at time: 140.197
+Left  detected at time: 143.064
+Right detected at time: 149.214
+Left  detected at time: 150.581
+Right detected at time: 151.881
+Left  detected at time: 155.731
+Right detected at time: 159.114
+Left  detected at time: 160.231
+Right detected at time: 168.231
+Left  detected at time: 173.964
+Right detected at time: 176.781
+Left  detected at time: 180.281
+Right detected at time: 191.648
+Left  detected at time: 205.132
+Right detected at time: 216.215
+Left  detected at time: 219.265
+Right detected at time: 220.965
+Left  detected at time: 227.015
+Right detected at time: 235.299
+Left  detected at time: 247.699
+Right detected at time: 259.499
+Left  detected at time: 279.383
+Right detected at time: 280.799
+Left  detected at time: 286.483
+Right detected at time: 295.450
+
+End

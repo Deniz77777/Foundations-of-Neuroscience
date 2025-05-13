@@ -1,0 +1,85 @@
+Trial number: 5
+Name: sana
+Age: 22
+
+Starting Time:
+ Year: 2022 - Month:   12 - Day:   31 - Hour:   15 - Minute:    1 - Second: 14.251
+
+
+Right detected at time:  0.900
+Left  detected at time: 13.184
+Right detected at time: 31.617
+Left  detected at time: 41.634
+Right detected at time: 47.301
+Left  detected at time: 52.518
+Right detected at time: 58.068
+Left  detected at time: 60.901
+Right detected at time: 67.785
+Left  detected at time: 76.935
+Right detected at time: 78.818
+Left  detected at time: 81.518
+Right detected at time: 84.918
+Left  detected at time: 88.485
+Right detected at time: 100.602
+Left  detected at time: 106.152
+Right detected at time: 110.785
+Left  detected at time: 117.169
+Right detected at time: 119.252
+Left  detected at time: 121.419
+Right detected at time: 126.152
+Left  detected at time: 129.535
+Right detected at time: 131.519
+Left  detected at time: 132.969
+Right detected at time: 135.652
+Left  detected at time: 138.719
+Right detected at time: 140.169
+Left  detected at time: 143.602
+Right detected at time: 146.736
+Left  detected at time: 149.603
+Right detected at time: 151.236
+Left  detected at time: 154.119
+Right detected at time: 161.753
+Left  detected at time: 165.886
+Right detected at time: 168.136
+Left  detected at time: 171.286
+Right detected at time: 173.186
+Left  detected at time: 174.586
+Right detected at time: 176.670
+Left  detected at time: 178.636
+Right detected at time: 179.986
+Left  detected at time: 184.536
+Right detected at time: 185.870
+Left  detected at time: 186.820
+Right detected at time: 188.936
+Left  detected at time: 190.487
+Right detected at time: 192.437
+Left  detected at time: 196.003
+Right detected at time: 197.003
+Left  detected at time: 198.087
+Right detected at time: 200.520
+Left  detected at time: 203.003
+Right detected at time: 206.903
+Left  detected at time: 215.387
+Right detected at time: 217.354
+Left  detected at time: 218.320
+Right detected at time: 220.637
+Left  detected at time: 223.287
+Right detected at time: 225.170
+Left  detected at time: 233.954
+Right detected at time: 242.304
+Left  detected at time: 245.954
+Right detected at time: 247.938
+Left  detected at time: 257.271
+Right detected at time: 263.388
+Left  detected at time: 265.254
+Right detected at time: 271.304
+Left  detected at time: 279.238
+Right detected at time: 284.755
+Left  detected at time: 290.755
+Right detected at time: 293.405
+Left  detected at time: 294.771
+Right detected at time: 296.905
+Left  detected at time: 298.938
+Right detected at time: 299.921
+
+End
